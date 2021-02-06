@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "StorageAccountName": {
-            "value": "tatsoustgpower" // TODO: Fill in parameter value
+            "value": "tatsoustgpower" 
         }
     }
 }
